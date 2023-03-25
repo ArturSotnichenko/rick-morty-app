@@ -5,7 +5,7 @@ import CharacterList from './components/CharacterList';
 function App() {
   return (
     <div className="App">
-      <h1> Rich &#38; Morty </h1>
+      <h1> Rick &#38; Morty </h1>
     <CharacterList/>
     </div>
   );

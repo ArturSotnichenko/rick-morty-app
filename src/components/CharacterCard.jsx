@@ -13,7 +13,5 @@ function CharacterCard({ character, onClick }) {
     </div>
   );
 }
-// компонент отвечает за отображение карточки персонажа
-
 
 export default CharacterCard

@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 import './ToTop.css'
 
 
-//кнопка скрола вверх
+
 const ToTop = () => {
 
     const [showToTopButton, setShowToTopButton] = useState(false);
